@@ -1,0 +1,27 @@
+body{
+    background-color: #d4d4d4!important;
+}
+
+
+h2{
+    color: #ff0000;
+    font-weight: 900;
+}
+
+#profile-wrapper{
+        text-align: center;
+        background-color: #d4d4d4!important;
+        border: none;
+}
+
+
+
+#profile-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    margin-right: auto;
+    margin-left: auto;
+}
+
